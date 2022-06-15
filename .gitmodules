@@ -1,3 +1,6 @@
 [submodule "Phase 0/Git practice/fizzbuzz"]
 	path = Phase 0/Git practice/fizzbuzz
 	url = git@github.com:meddydev/CV.git
+[submodule "Phase 0/Git practice/CV"]
+	path = Phase 0/Git practice/CV
+	url = git@github.com:meddydev/CV.git
