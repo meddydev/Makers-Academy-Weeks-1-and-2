@@ -18,7 +18,6 @@ class DiaryEntry
     end
 
     def reading_time(wpm)
-        # word_count = @contents.split(" ").length
         (count_words / wpm.to_f).ceil
     end
 
